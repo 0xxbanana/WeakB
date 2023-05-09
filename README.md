@@ -13,5 +13,3 @@
 运行main.exe
 
 windows11如遇到不行右键终端.\main.exe
-
-![](E:\SecProject\BucketFileScan\WeakB.jpg)
