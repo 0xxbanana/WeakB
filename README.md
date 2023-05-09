@@ -13,3 +13,5 @@
 运行main.exe
 
 windows11如遇到不行右键终端.\main.exe
+
+https://github.com/0xxbanana/BucketFileScanner/blob/master/WeakB.jpg
