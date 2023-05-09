@@ -1,4 +1,4 @@
-# WeakB
+# WeakB🔎🔎🔎
 ![](https://img.shields.io/badge/Go-1.18-blue)
 
 ## 主要功能
